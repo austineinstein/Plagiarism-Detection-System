@@ -1,1 +1,9 @@
-READ .docx files and powerpoint presentation for more detailed information.
+READ CloudComputingProposal, CloudComputingReport and download Powerpoint Presentation for more detailed information.
+
+Python files are the important parts of code written for the system:
+
+main.py is for front end django application
+
+getpage.py is polling script that listens for requests from front end
+
+runboto.py makes requests to EMR for handling Job processes 
