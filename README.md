@@ -1,7 +1,5 @@
 READ CloudComputingProposal, CloudComputingReport and download Powerpoint Presentation for more detailed information.
 
-(View Raw)
-
 Python files are the important parts of code written for the system:
 
 main.py is for front end django application
