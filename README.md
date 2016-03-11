@@ -9,3 +9,7 @@ main.py is for front end django application
 getpage.py is polling script that listens for requests from front end
 
 runboto.py makes requests to EMR for handling Job processes 
+
+indexmap.py is mapping part of the plagirism algorithm 
+
+indexreduce.py is reducing part of the algorithm
