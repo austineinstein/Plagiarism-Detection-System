@@ -1,4 +1,4 @@
-
+#queing script
 import os
 import boto.emr
 import time
