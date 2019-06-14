@@ -10,7 +10,7 @@ a = []; awsarray = []; x = 0; y = 1;
 a.append('default')
 #a.append('default')
 while (1 == 1):
-        req = urlopen("http://agboxml.appspot.com/file")
+        req = urlopen("{Link_to_query}")
         content = req.read()
         content1 = content
         content2 = 'wait'
